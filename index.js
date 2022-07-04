@@ -17,3 +17,4 @@ calc = (type)=>{
 }
  
 result = calc('primary');
+console.log(result);
